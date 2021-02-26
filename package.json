@@ -4,6 +4,7 @@
   },
   "dependencies": {},
   "devDependencies": {
+    "html-loader": "^2.1.1",
     "webpack": "^5.24.1",
     "webpack-cli": "^4.5.0"
   }
